@@ -1,16 +1,14 @@
 @font-face {
 	font-family: dandelion;
-	src: url('dandelion_in_the_spring.ttf');
+	src: url('../fonts/dandelion_in_the_spring.ttf');
 }
-
-@import url('http://fonts.googleapis.com/css?family=Ubuntu');
 
 body {
 	/*font-family: dandelion;*/
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
    	font-weight: 300;
 	background-color: #EEE1D4;
-	background-image: url('background.png');
+	background-image: url('../img/background.png');
 }
 
 h1, h2, h3, h4, h5 {
